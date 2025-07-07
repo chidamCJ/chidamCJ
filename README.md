@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @chidamCJ / ChidambaraRaja PalaniSwamy
-- 👀 I’m interested in Java/ Scala/ Apache Spark/ Databricks and other big data tools. 
-- 🌱 I’m currently learning Azure Databricks/ Spark/ Scala.
+- 👀 I’m working on Azure Databricks/ Spark/ PySpark/ Scala/ Github and other big data tools. 
 - 💞️ I’m looking to collaborate on Databricks/ Spark/ Scala.
-- 📫 How to reach me ===chidam.sky@gmail.com===
+- 📫 I’m reachable in **********https://www.linkedin.com/in/chidambararaja/**********
 
 <!---
 chidamCJ/chidamCJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
