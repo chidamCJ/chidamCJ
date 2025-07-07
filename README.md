@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chidamCJ / ChidambaraRaja PalaniSwamy
 - 👀 I’m working on Azure Databricks/ Spark/ PySpark/ Scala/ Github and other big data tools. 
-- 💞️ I’m looking to collaborate on Databricks/ Spark/ Scala.
+- 💞️ I’m looking to collaborate on Databricks/ Spark/ Scala and Azure services.
 - 📫 I’m reachable in **********https://www.linkedin.com/in/chidambararaja/**********
 
 <!---
